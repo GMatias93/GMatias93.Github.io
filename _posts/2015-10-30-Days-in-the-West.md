@@ -4,7 +4,7 @@ title: Days in the West Coast
 published: true
 ---
 
-
+![Bridge]({{site.baseurl}}/_posts/4540289776_65c401d463_z.jpg)
 
 Spendin' all my days on the Eastside [of the bay], Oh! As my third week in the San Francisco Bay area comes to a close I can't say that I am forgetting who I was on the other side, but I have definitely been experiencing a lot of growth. the "other side" refering to my hometown, Lynn, Massachusetts. That is a distance of 3098 miles, 3 timezones, a six hour flight that I endured and as of three weeks ago I decided that it was well worth it. The best part is that this is is only the beginning.
  
