@@ -27,7 +27,7 @@ The getPicture method prompts the user to take a picture with their devices nati
 
 Up above we have CameraController which we injected with CameraFactory a few lines before the screenshot. What we are doing on line 24 is creating a function called takePicture on scope with the sole purpose of calling the takePhoto function from the CameraFactory and handling the data that it returns. 
 
-On line 26 we have a then statement that receives the imageData returned by the call to $cordovaCamera's getPicture method. This data is called a 64base encoded string containing all of the pixel information for the image capture by the user. We prefix that string with 'data:image/jpeg;base64,' and this allows us to use image HTML tags to render the users image to any view.
+On line 26 we have a then statement that receives the imageData returned by the call to $cordovaCamera's getPicture method. This data is called a 64base encoded string containing all of the pixel information for the image capture by the user. We prefix that string with 'data:image/jpeg;base64,' and this allows us to use img HTML tags to render the users image to any view.
 
 
 **Bonus!!!**
